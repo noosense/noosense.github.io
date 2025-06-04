@@ -24,7 +24,7 @@
 
 ## 视频
 
-[好看的视频](videos\myvideo.mp4)
+[好看的视频](videos/myvideo.mp4)
 ---
 
 ## 联系我
