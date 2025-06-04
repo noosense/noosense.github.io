@@ -22,7 +22,9 @@
 - [百度](https://www.bing.com/)
 - [CHATGPT](https://chat.deepseek.com/)
 
+## 视频
 
+[好看的视频](videos\myvideo.mp4)
 ---
 
 ## 联系我
